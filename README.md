@@ -1,4 +1,4 @@
-##SCRIPT PRÉ-DEFINIDO
+## SCRIPT PRÉ-DEFINIDO
 
 Mensagem: "<saudação>, bem-vindo a UFC!"  
 1. A saudação é:  
